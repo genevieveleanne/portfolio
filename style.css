@@ -20,6 +20,11 @@ body {
   margin: 0 auto;
 }
 
+h2 {
+  color: #fff;
+  font-family: "Delius Unicase", cursive;
+}
+
 .nav-link {
   color: #fff;
   font-family: "Delius", cursive;
