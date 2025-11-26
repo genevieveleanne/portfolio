@@ -14,13 +14,15 @@ body {
   background-attachment: fixed;
 }
 
-.navbar-nav {
+.navbar-nav,
+.hero-container {
   max-width: 700px;
   margin: 0 auto;
 }
 
 .nav-link {
   color: #fff;
+  font-family: "Delius", cursive;
 }
 
 .nav-link:hover {
@@ -28,7 +30,32 @@ body {
   text-decoration: overline;
 }
 
-.hero-container {
-  max-width: 700px;
-  margin: 0 auto;
+/*
+UNICASE
+.delius-unicase-regular {
+  font-family: "Delius Unicase", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
+
+.delius-unicase-bold {
+  font-family: "Delius Unicase", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+REGULAR
+.delius-regular {
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+SWASH CAPS
+.delius-swash-caps-regular {
+  font-family: "Delius Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*/
