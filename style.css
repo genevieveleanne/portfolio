@@ -14,12 +14,21 @@ body {
   background-attachment: fixed;
 }
 
-h1,
-h2 {
+.navbar-nav {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.nav-link {
   color: #fff;
 }
 
-.header-container {
+.nav-link:hover {
+  color: #f4d391;
+  text-decoration: overline;
+}
+
+.hero-container {
   max-width: 700px;
   margin: 0 auto;
 }
