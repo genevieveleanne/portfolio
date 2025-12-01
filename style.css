@@ -56,6 +56,11 @@ p {
   width: 400px;
 }
 
+.projects {
+  margin-top: 200px;
+  text-align: center;
+}
+
 /*
 UNICASE
 .delius-unicase-regular {
