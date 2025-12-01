@@ -28,12 +28,14 @@ p,
 
 h2 {
   font-family: "Delius Unicase", cursive;
+  font-size: 32px;
 }
 
 p {
   font-family: "Delius", cursive;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 2;
+  margin-top: 15px;
 }
 
 .nav-link {
