@@ -20,19 +20,38 @@ body {
   margin: 0 auto;
 }
 
-h2 {
+h2,
+p,
+.nav-link {
   color: #fff;
+}
+
+h2 {
   font-family: "Delius Unicase", cursive;
 }
 
-.nav-link {
-  color: #fff;
+p {
   font-family: "Delius", cursive;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.nav-link {
+  font-family: "Delius", cursive;
+  transition: all 150ms ease-in-out;
 }
 
 .nav-link:hover {
   color: #f4d391;
   text-decoration: overline;
+}
+
+.about-section {
+  text-align: center;
+}
+
+.gen-pic {
+  width: 400px;
 }
 
 /*
