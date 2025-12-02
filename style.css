@@ -14,16 +14,21 @@ body {
   background-attachment: fixed;
 }
 
+h2,
+p,
+.nav-link {
+  color: #fff;
+}
+
 .navbar-nav,
 .hero-container {
   max-width: 700px;
   margin: 0 auto;
 }
 
-h2,
-p,
-.nav-link {
-  color: #fff;
+.about-section,
+.projects {
+  text-align: center;
 }
 
 h2 {
@@ -48,17 +53,12 @@ p {
   text-decoration: overline;
 }
 
-.about-section {
-  text-align: center;
-}
-
 .gen-pic {
   width: 400px;
 }
 
 .projects {
   margin-top: 200px;
-  text-align: center;
 }
 
 /*
