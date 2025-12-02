@@ -16,12 +16,14 @@ body {
 
 h2,
 h4,
+footer,
 .nav-link {
   color: #fff;
 }
 
 p,
 h4,
+footer,
 .nav-link {
   font-family: "Delius", cursive;
 }
@@ -47,7 +49,6 @@ h2 {
 p {
   font-size: 20px;
   line-height: 2;
-  margin-top: 15px;
   color: #e9f090;
 }
 
@@ -66,6 +67,10 @@ p {
 
 .portfolio-section {
   margin-top: 200px;
+}
+
+.about-paragraph {
+  margin-top: 15px;
 }
 
 /*
