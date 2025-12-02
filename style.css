@@ -28,7 +28,7 @@ h4,
 
 h4,
 .about-section,
-.projects {
+.portfolio-section {
   text-align: center;
 }
 
@@ -64,7 +64,7 @@ p {
   width: 400px;
 }
 
-.projects {
+.portfolio-section {
   margin-top: 200px;
 }
 
