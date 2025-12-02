@@ -15,9 +15,21 @@ body {
 }
 
 h2,
-p,
+h4,
 .nav-link {
   color: #fff;
+}
+
+p,
+h4,
+.nav-link {
+  font-family: "Delius", cursive;
+}
+
+h4,
+.about-section,
+.projects {
+  text-align: center;
 }
 
 .navbar-nav,
@@ -26,25 +38,17 @@ p,
   margin: 0 auto;
 }
 
-p,
-.nav-link {
-  font-family: "Delius", cursive;
-}
-
-.about-section,
-.projects {
-  text-align: center;
-}
-
 h2 {
   font-family: "Delius Unicase", cursive;
   font-size: 32px;
+  text-decoration: overline;
 }
 
 p {
   font-size: 20px;
   line-height: 2;
   margin-top: 15px;
+  color: #e9f090;
 }
 
 .nav-link {
