@@ -67,6 +67,10 @@ p {
   color: #e9f090;
 }
 
+footer {
+  margin-top: 50px;
+}
+
 .gen-pic {
   width: 400px;
 }
